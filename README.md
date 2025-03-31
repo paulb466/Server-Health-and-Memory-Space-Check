@@ -10,4 +10,4 @@ This is a python script I wrote that runs every hour everyday (triggered by a cr
 - free hard drive space
 - hard drive SMART checks
 
-The advantage with this script is that it is automated, all relevant information is on one page, always available, and even sent to me daily keeping me up to date without having to think to check.
+The advantage with this script is that it is automated, all relevant information is on one page, always available, and even sent to me daily keeping me up to date without me having to remember to check.
