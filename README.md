@@ -1,4 +1,4 @@
-![preview]!200(preview.jpg)
+![preview](preview.jpg)
 
 # Server-Health-and-Memory-Space-Check
 
