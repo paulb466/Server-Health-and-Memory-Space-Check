@@ -10,7 +10,7 @@ This is a python script I wrote that runs every hour on my server (triggered by 
 - Free hard drive space
 - Hard drive SMART check results
 
-The advantage with this script is:
+Advantages:
 - It is automated
 - All relevant information in one place
 - Always available
