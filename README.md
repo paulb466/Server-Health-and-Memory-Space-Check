@@ -13,5 +13,4 @@ This is a python script I wrote that runs every hour on my server (triggered by 
 Advantages:
 - Automated
 - All relevant information in one place
-- Always available
 - Results are sent to me daily negating me remembering to check
