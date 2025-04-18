@@ -11,7 +11,7 @@ This is a python script I wrote that runs every hour on my server (triggered by 
 - Hard drive SMART check results
 
 Advantages:
-- It is automated
+- Automated
 - All relevant information in one place
 - Always available
 - Results are sent to me daily negating me remembering to check
