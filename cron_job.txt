@@ -1,0 +1,6 @@
+# SERVER HEALTH - Runs script for server health web page.  To see cpu/ram usage, hard drive space and health.
+# Also in the python script it sends a telegram message to me with the results at 9 AM everyday.
+# Python script must have full path links to any text files opening for reading/writing.
+# Runs at the top of the hours, except between 3 AM and 9 AM.  While snapraid is running.
+0 0-3 * * * root /usr/bin/python3 /docker/webpage/webserver_serverhealth/run_check.py >> /docker/webpage/webserver_serverhealth/log.txt 2>&1
+0 9-23 * * * root /usr/bin/python3 /docker/webpage/webserver_serverhealth/run_check.py >> /docker/webpage/webserver_serverhealth/log.txt 2>&1
